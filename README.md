@@ -139,6 +139,11 @@ Version: 0x0c (12) = Bluetooth 5.3
 Modalias: usb:v1D6Bp0246d0548 = USB device
 ```
 
+### ขั้นตอนที่ 6: ออก
+```bash
+exit
+```
+
 ### การตรวจสอบสถานะเครือข่าย
 ตรวจสอบการเชื่อมต่อ WiFi:
 ```bash
